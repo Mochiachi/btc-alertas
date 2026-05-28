@@ -1,0 +1,4 @@
+module.exports = {
+    TELEGRAM_TOKEN: "8368458702:AAH80gYs0W_3TBx6vam3OuF4uwgl3wWuBDM",
+    TELEGRAM_CHAT_ID: "5334069517"
+};
